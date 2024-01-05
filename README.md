@@ -1,4 +1,7 @@
 This is a my first advent of code. I have only solved 57 leetcode problems before this, so don't expect some optimized speedy code. I have to look at people's discussion at the last 5 days for the second part but still solve it using my understanding of each discussion.
+
 During this time, I learned to plan my solving process into text first before jumping into the code. I think it is faster, but by faster I mean that my fastest time in solving a day's problem is probably around 3 hours.
+
 I noticed that my time were mostly wasted on debugging function that were missing some edge cases. I think I still don't know how to find edge case that I never even knew, other than to raise an error in the else case. This will also made me blame other function that use this function and change them. Then after correcting the initial bugged function, I forgot that I ever change these function. I think I need to plan my debugging before doing them, never did that here. Some bug will cost less than five minutes but other can cost a day because I read the instruction wrong.
+
 Moving forward, I think I don't have to avoid reading people's discussion to the problem even if I can answer the problem. I didn't even knew we were solving an NP-hard (I didn't even knew what this mean) problem and just cheer my machine brute forcing it without some optimization. I should also use more library like in day 25.
